@@ -1,0 +1,1 @@
+This is a project of Data Mining based on Crash,Poeple and Vehicle data set from the official website of California Police department to create a predictive graph using Predictive analysis and models and to decided which model is best for the dataset given.
